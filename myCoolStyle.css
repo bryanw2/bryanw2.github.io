@@ -1,0 +1,16 @@
+
+#nav-al-signin {
+	display: none !important;
+}
+
+#nav-al-signin a {
+}
+
+#congrats {
+	display: none;
+	margin: 1em;
+	padding: 1em;
+	border: 1px solid #4CAF50;
+	border-radius: 6px;
+	box-shadow: 0px 0px 7px inset #8bc34a96
+}
